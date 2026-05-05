@@ -34,8 +34,8 @@ The plugin re-runs only the recombine step and produces a new `after_v2.png`.
 
 ```bash
 # In Claude Code:
-/plugin marketplace add wyang/siril-astro-processor
-/plugin install siril-astro-processor@wyang-siril-astro-processor
+/plugin marketplace add portkeys/siril-astro-processor
+/plugin install siril-astro-processor@portkeys-siril-astro-processor
 ```
 
 ## Prerequisites

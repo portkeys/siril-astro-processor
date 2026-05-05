@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Process deep sky astrophotography in Claude Code via Siril CLI. Auto-detects OSC/mono data, handles calibration, runs the full register-stack-stretch-starnet-recombine pipeline, and offers named recipes (natural / starless / punchy) for star treatment.",
   "author": {
-    "name": "Wei Yang"
+    "name": "Wen Yang"
   },
-  "homepage": "https://github.com/wyang/siril-astro-processor",
-  "repository": "https://github.com/wyang/siril-astro-processor",
+  "homepage": "https://github.com/portkeys/siril-astro-processor",
+  "repository": "https://github.com/portkeys/siril-astro-processor",
   "license": "MIT",
   "keywords": [
     "astrophotography",
