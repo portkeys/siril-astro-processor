@@ -14,8 +14,9 @@ description: >
 # Siril Astrophoto Processor
 
 This skill generates and executes Siril CLI scripts (`.ssf` files) to process deep sky
-astrophotography data. It follows a proven workflow adapted from Paolo's deep sky processing
-guide, using Siril's native command-line interface for reliable, reproducible batch processing.
+astrophotography data. The workflow is adapted from **Paolo Nicosia's** deep sky processing
+tutorial taught at the Chabot Space & Science Center astrophotography workshop, using
+Siril's native command-line interface for reliable, reproducible batch processing.
 
 ## Environment Preflight
 

@@ -106,6 +106,16 @@ Issues and PRs welcome. The skill itself is a single
 [`SKILL.md`](skills/process-deep-sky/SKILL.md) — start there if you want to
 add a recipe or fix a workflow.
 
+## Acknowledgments
+
+The processing workflow this plugin automates was originally taught by
+**Paolo Nicosia** at the Chabot Space & Science Center astrophotography
+workshop. His step-by-step Siril tutorial is the source of every pipeline
+choice here — convert → register → stack → background extraction →
+denoise → starnet → stretch → enhance. The plugin packages that workflow so
+others can run it with a single sentence to Claude Code, but the recipe is
+his.
+
 ## License
 
 MIT
