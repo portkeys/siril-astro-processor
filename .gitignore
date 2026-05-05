@@ -1,0 +1,11 @@
+.DS_Store
+*.fit
+*.fits
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.ssf
+process/
+seqfile/
