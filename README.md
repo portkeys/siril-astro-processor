@@ -32,11 +32,15 @@ The plugin re-runs only the recombine step and produces a new `after_v2.png`.
 
 ## Install
 
-```bash
-# In Claude Code:
-/plugin marketplace add portkeys/siril-astro-processor
-/plugin install siril-astro-processor@portkeys-siril-astro-processor
+In Claude Code, run these two commands:
+
 ```
+/plugin marketplace add portkeys/siril-astro-processor
+/plugin install siril-astro-processor@siril-plugins
+```
+
+The first command registers this repo as a plugin marketplace; the second
+installs the `siril-astro-processor` plugin from it.
 
 ## Prerequisites
 

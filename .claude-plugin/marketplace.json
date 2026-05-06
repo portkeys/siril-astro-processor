@@ -1,0 +1,14 @@
+{
+  "name": "siril-plugins",
+  "owner": {
+    "name": "Wen Yang"
+  },
+  "description": "Astrophotography processing plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "siril-astro-processor",
+      "source": ".",
+      "description": "Process deep sky astrophotography via Siril CLI. Auto-detects OSC/mono data, runs the full register-stack-stretch-starnet-recombine pipeline, and offers named recipes (natural / starless / punchy) for star treatment."
+    }
+  ]
+}
