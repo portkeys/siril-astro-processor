@@ -8,8 +8,8 @@
     {
       "name": "siril-astro-processor",
       "source": {
-        "source": "github",
-        "repo": "portkeys/siril-astro-processor"
+        "source": "url",
+        "url": "https://github.com/portkeys/siril-astro-processor.git"
       },
       "description": "Process deep sky astrophotography via Siril CLI. Auto-detects OSC/mono data, runs the full register-stack-stretch-starnet-recombine pipeline, and offers named recipes (natural / starless / punchy) for star treatment."
     }
